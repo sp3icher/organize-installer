@@ -1,3 +1,4 @@
+<#
 .SYNOPSIS
     This script organizes files into folders based on product name and version.
 
